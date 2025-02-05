@@ -1,6 +1,5 @@
 # gocro3
-High Performance, High Precision PDF OCR Tool
-Gocro3: Genuine OCR Optimizer 3
+Gocro3: Genuine OCR Optimizer 3<BR>
 
 High Performance, High Precision PDF OCR Tool
 Project Overview
