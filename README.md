@@ -36,3 +36,4 @@ This tool is a powerful solution for easily extracting text data in PDF files an
 This introduction details the tool's features and main functions, highlighting its usefulness for specific applications and user groups. It also mentions the tool's highly accurate and flexible evaluation criteria and pre-processing features, clearly communicating its value to the user. This introductory text will be used to promote the project's appeal to a wide audience.
 
 " Download
+📌 [gocro3.py](https://github.com/Akihiko-Fuji/gocro3/raw/refs/heads/main/gocro3.py)
